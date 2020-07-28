@@ -62,4 +62,12 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Guo is a Master student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. His research interests include nonparametric estimation, statistical learning, and bioinformatics.
+Xinyu Guo is a master student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. His research interests include nonparametric estimation, statistical learning, and bioinformatics.
+
+
+
+
+
+
+
+
