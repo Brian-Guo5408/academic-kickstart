@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-20"
   date_end = ""
   description = """
+  Creating a model with clinical data to predict respiratory failure.
   Responsibilities include:
   
   * Data Cleaning
