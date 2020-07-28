@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "St. Louis"
   date_start = "2020-06-20"
   date_end = ""
-  description = "Creating a model with clinical data to predict respiratory failure."
+  description = """
   Responsibilities include:
   
   * Data Cleaning
