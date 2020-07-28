@@ -15,7 +15,8 @@ role: Master Student of Biostatistics
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins University
-  url: "https://www.jhsph.edu"
+        Bloomberg School of Public Health
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonparametric estimation, statistical learning, and bioinformatics.
@@ -38,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:xguo42@jh.edu".
+  link: "mailto:xguo42@jh.edu"
 #- icon: google-scholar
 # icon_pack: ai
 # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
