@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "St. Louis"
   date_start = "2020-06-20"
   date_end = ""
-  description = """Creating a model with clinical data to predict respiratory failure."""
+  description = "Creating a model with clinical data to predict respiratory failure."
   Responsibilities include:
   
   * Data Cleaning
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "St. Louis"
   date_start = "2019-05-06"
   date_end = "2019-08-31"
-  description = """Investigated the properties of bootstrap method in R and visualizing its resampling process."""
+  description = "Investigated the properties of bootstrap method in R and visualizing its resampling process."
 
 +++
