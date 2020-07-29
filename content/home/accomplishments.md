@@ -18,7 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[item]]
+  organization = "University of Michigan"
+  organization_url = "https://umich.edu"
+  title = "MSSISS 2020"
+  url = ""
+  certificate_url = ""
+  date_start = "Feb 2020"
+  date_end = ""
+  description = "Held a poster presentation."
 
 
 +++
