@@ -27,6 +27,36 @@ date_format = "Jan 2006"
   date_start = "2020-02-27"
   date_end = "2020-02-28"
   description = "Held a poster presentation."
+  
+ [[item]]
+  organization = "Washington University in St. Louis"
+  organization_url = "https://wustl.edu"
+  title = "Undergraduate Research Symposium"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-02"
+  date_end = ""
+  description = "Held a poster presentation."
+  
+  [[item]]
+  organization = "Washington University in St. Louis"
+  organization_url = "https://wustl.edu"
+  title = "Workshop on Higher-Order Asymptotics and Post-Selection Inference"
+  url = "http://www.math.wustl.edu/%7Ekuffner/WHOA-PSI-4.html"
+  certificate_url = ""
+  date_start = "2019-08-17"
+  date_end = "2019-08-19"
+  description = ""
+  
+  [[item]]
+  organization = "data.org"
+  organization_url = "https://data.org"
+  title = "Judge for data.org Challenge"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-21"
+  date_end = ""
+  description = ""
 
 
 +++
