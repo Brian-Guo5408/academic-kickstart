@@ -28,24 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Held a poster presentation."
 
-[[item]]
-  organization = "Washington University in St. Louis"
-  organization_url = "https://wustl.edu"
-  title = "Undergraduate Research Symposium"
-  url = ""
-#  certificate_url = "https://www.edx.org"
-  date_start = "Nov 2019"
-  date_end = ""
-  description = "Held a poster presentation."
-  
-[[item]]
-  organization = "Workshop on Higher-Order Asymptotics and Post-Selection Inference"
-  organization_url = "http://www.math.wustl.edu/%7Ekuffner/WHOA-PSI-4.html"
-  title = "Registrant"
-  url = ""
-#  certificate_url = "https://www.datacamp.com"
-  date_start = "Aug 2019"
-  date_end = ""
-  description = ""
+
 
 +++
