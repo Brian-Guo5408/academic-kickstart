@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "University of Michigan"
-  organization_url = https://umich.edu"
+  organization_url = "https://umich.edu"
   title = "MSSISS 2020"
   url = ""
   certificate_url = ""
