@@ -31,7 +31,13 @@ education:
   - course: BA in Mathematics
     institution: Washington University in St. Louis
     year: 2020
-
+    
+  courses:
+  - course: ScM in Biostatistics (current)
+    institution: Johns Hopkins University
+    year: 2020
+    
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
