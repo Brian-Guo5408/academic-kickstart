@@ -28,12 +28,13 @@ interests:
 
 education:
   courses:
-  - course: BA in Mathematics
-    institution: Washington University in St. Louis
-    year: 2020
   - course: ScM in Biostatistics (current)
     institution: Johns Hopkins University
     year: 2020
+  - course: BA in Mathematics
+    institution: Washington University in St. Louis
+    year: 2020
+
     
     
 # Social/Academic Networking
