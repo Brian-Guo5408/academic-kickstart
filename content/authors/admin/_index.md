@@ -31,8 +31,6 @@ education:
   - course: BA in Mathematics
     institution: Washington University in St. Louis
     year: 2020
-    
-  courses:
   - course: ScM in Biostatistics (current)
     institution: Johns Hopkins University
     year: 2020
