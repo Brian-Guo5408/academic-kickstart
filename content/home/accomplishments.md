@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-02-27"
   date_end = "2020-02-28"
-  description = "Held a poster presentation."
+  description = ""
   
  [[item]]
   organization = "Washington University in St. Louis"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-11-02"
   date_end = ""
-  description = "Held a poster presentation."
+  description = ""
   
   [[item]]
   organization = "Washington University in St. Louis"
