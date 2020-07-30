@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Student Researche"
+  title = "Student Researcher"
   company = "Washington University in St. Louis"
   company_url = ""
   location = "St. Louis"
