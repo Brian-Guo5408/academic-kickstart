@@ -38,10 +38,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Student Researcher"
   company = "Washington University in St. Louis"
-  company_url = ""
+  company_url = "https://math.wustl.edu"
   location = "St. Louis"
   date_start = "2019-05-06"
   date_end = "2019-08-31"
-  description = "Investigated the properties of bootstrap method in R and visualizing its resampling process."
+  description = "Investigated the properties of bootstrap method in R and visualized its resampling process."
 
 +++
