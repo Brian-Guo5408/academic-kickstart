@@ -14,14 +14,15 @@ role: Master Student of Biostatistics
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
+- name: Department of Biostatistics, Johns Hopkins University
         Bloomberg School of Public Health
-  url: ""
+  url: "https://www.jhsph.edu/departments/biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonparametric estimation, statistical learning, and bioinformatics.
 
 interests:
+- Statistical Genetics And Genomics
 - Nonparametric Estimation
 - Statistical Learning
 - Bioinformatics
@@ -30,7 +31,7 @@ education:
   courses:
   - course: ScM in Biostatistics (current)
     institution: Johns Hopkins University
-    year: 2020
+    year: 2021
   - course: BA in Mathematics
     institution: Washington University in St. Louis
     year: 2020
@@ -67,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Guo is a master student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. His research interests include nonparametric estimation, statistical learning, and bioinformatics.
+Xinyu Guo is a master student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. His research interests lie broadly in implementing and developing statistical methods to study scientific questions about genetics, genomics. Hi is also interested in nonparametric estimation, statistical learning, and bioinformatics.
 
 
 
