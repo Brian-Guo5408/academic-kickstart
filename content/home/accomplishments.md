@@ -19,6 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "The International Indian Statistical Association"
+  organization_url = "https://www.intindstat.org/summerConference2021/scprogCommittee"
+  title = "Statistics in the Era of Evidence Based Inference"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-20"
+  date_end = "2021-05-23"
+  description = ""
+
+[[item]]
+  organization = "World Innovation Summit"
+  organization_url = "https://u8innovation.org/en/agenda"
+  title = "U8 World Innovation Summit"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-21"
+  date_end = "2021-05-23"
+  description = ""
+  
+[[item]]
+  organization = "Harvard T.H. Chan School of Public Health"
+  organization_url = "https://www.hsph.harvard.edu"
+  title = "2020 PQG Conference"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-05"
+  date_end = "2020-11-06"
+  description = ""
+
+[[item]]
   organization = "University of Michigan"
   organization_url = "https://umich.edu"
   title = "MSSISS 2020"
