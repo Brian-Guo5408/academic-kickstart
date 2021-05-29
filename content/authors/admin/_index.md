@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a master student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. My research interests lie broadly in implementing and developing statistical methods to study scientific questions about genetics and genomics. I am also interested in nonparametric estimation, statistical learning, and bioinformatics. I believe my research if socially responsible that could inform people of potential health risks and elevating their health condition in the long run.
+I am a master's student of Biostatistics at Johns Hopkins Bloomberg School of Public Health. My research interests lie broadly in implementing and developing statistical methods to study scientific questions about genetics and genomics. I am also interested in nonparametric estimation, statistical learning, and bioinformatics. I believe my research is socially responsible for informing people of potential health risks and elevating their health condition in the long run.
 
 
 
